@@ -1,0 +1,1 @@
+This folder contains the electrical schematics and wiring diagrams for the Water Tank Monitoring System project. These documents help to visualize the physical connections between the ESP32 and the sensors.
