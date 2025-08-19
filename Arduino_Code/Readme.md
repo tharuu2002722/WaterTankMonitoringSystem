@@ -1,0 +1,1 @@
+This folder contains all the Arduino code files for the Water Tank Monitoring System project. The code is organized to handle different functionalities related to water level monitoring, water quality monitoring, and pump control.
